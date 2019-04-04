@@ -1,0 +1,26 @@
+.App {
+  text-align: left;
+}
+
+.Nav-Header {
+	background-color: #282c34;
+	display: flex;
+	color: gray;
+}
+
+.Main-Nav {
+	text-align: center;
+	margin: 20px;
+	margin-right: 0px;
+}
+
+.Nav-Login-Input {
+	text-align: center;
+	margin: 10px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+}
+
+.Nav-Login {
+	margin-left: 20px;
+}
